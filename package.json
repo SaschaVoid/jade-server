@@ -8,7 +8,7 @@
   "dependencies": {
     "node-static": "^0.7.11",
     "pug": "^2.0.4",
-    "snyk": "^1.518.0"
+    "snyk": "^1.522.0"
   },
   "repository": {
     "type": "git",
