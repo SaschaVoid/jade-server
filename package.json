@@ -7,7 +7,7 @@
   "author": "Yorick <yorick@ctrlalt.dev>",
   "dependencies": {
     "node-static": "^0.7.11",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "snyk": "^1.518.0"
   },
   "repository": {
